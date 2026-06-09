@@ -17,7 +17,7 @@ class LinkedList
 private:
     Node* head;
 public:
-    // Node *head;
+
     LinkedList()
     {
         head = NULL;
